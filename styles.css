@@ -1,60 +1,7 @@
-       
+   
 
-        #mainbody {
-            position: absolute;
-            top:10px;
-            left: 20px;
-            padding:5px; 
-            width: 100%; 
-            height: 100%;
-            z-index: 1;
-            color:aqua}
-
-        /*
-        issues with picture address find webaddress instead.
-        
-        .bonfire {background-image:/home/jeremy/Pictures/Background.jpg;
-        height: 200px;
-        width: 200px;}*/
-        
-        #content{
-            width: 200px;
-            background: #d83939
-            padding: 20px;
-            padding-top: 0;
-            font_family: sans-serif;
-            font-size: 18px
-            color: rgb(#200);
-            margin: 0 auto;
-
-            max-height:270px;
-            overflow:hidden;
-            /* set tranitions*/
-            -webkit-transition: max-height 0.7s;
-            -moz-transition: max-height 0.7s;
-            transition: max-height 0.7s;
-
-        #content.open{
-            max-height: 1000px;
-            /*set up tranitions*/
-            -webkit-transition: 0.7s;
-            -moz-transition: max-height 0.7s;
-            transition: max-height 0.7s;
-
-        #show-more{
-            background: #1594e5;
-            color: #fff;
-            font-family: Calibri;
-            display:block;
-            width: 150px;
-            font-size 24px;
-            text-transform: uppercase;
-            padding: 10px
-            text-align: center;
-            margin: 20 px auto;
-            cursor: pointer;
-        }
-           
+        body {font-family: sans-serif; background-color: beige}
+                  
            h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 
         p {font-size:1.2em;font-style:italic;}
@@ -65,7 +12,7 @@
 
         .why-i-am-awesome{color:rgb(86, 81, 237);font-style: oblique;font-size:1.3em;
             }
-        body {font-family: sans-serif;}
+        
           
         table,
         td {
@@ -75,7 +22,10 @@
     tfoot {
     background-color:rgb(114, 93, 131);
     color:rgb(62, 54, 179);
+    
+    #emeraldharold_pic { height: 600px
 
+    }
 
 
 }
