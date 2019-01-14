@@ -1,31 +1,26 @@
-   
-
-        body {font-family: sans-serif; background-color: beige}
+    body {font-family: sans-serif; background-color: beige}
                   
-           h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+        h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 
         p {font-size:1.2em;font-style:italic;}
 
              .solaire{font-family: monospace;}
 
-        .my_favorite-dishes{font-family: fantasy;}
+        .abyssknight{font-family: fantasy;}
 
-        .why-i-am-awesome{color:rgb(86, 81, 237);font-style: oblique;font-size:1.3em;
-            }
-        
+        .emeraldharold{color:rgb(86, 81, 237);font-style: oblique;font-size:1.3em;
+           
+        }
           
         table,
         td {
             border: 2px solid rgb(236, 69, 69); padding: 20px 30px; background-color: rgba(153, 24, 24, 0.842)
 }
-    thead,
-    tfoot {
-    background-color:rgb(114, 93, 131);
-    color:rgb(62, 54, 179);
+        thead,
+        tfoot {
+            background-color:rgb(114, 93, 131);
+            color:rgb(62, 54, 179);
     
-    #emeraldharold_pic { height: 600px
-
-    }
-
+   
 
 }
